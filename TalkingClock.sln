@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkingClock", "TalkingClock\TalkingClock.csproj", "{1868C51F-DA13-4C18-92F1-5FDB2170E3B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkingClock.Tests", "TalkingClock.Tests\TalkingClock.Tests.csproj", "{B374D5F3-5A84-4FDA-975D-22D53AEC7AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1868C51F-DA13-4C18-92F1-5FDB2170E3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1868C51F-DA13-4C18-92F1-5FDB2170E3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1868C51F-DA13-4C18-92F1-5FDB2170E3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1868C51F-DA13-4C18-92F1-5FDB2170E3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B374D5F3-5A84-4FDA-975D-22D53AEC7AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B374D5F3-5A84-4FDA-975D-22D53AEC7AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B374D5F3-5A84-4FDA-975D-22D53AEC7AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B374D5F3-5A84-4FDA-975D-22D53AEC7AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504C9A38-ED10-4C36-88CB-0920EA7B97F5}
+	EndGlobalSection
+EndGlobal
